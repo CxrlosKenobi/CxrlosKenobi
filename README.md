@@ -1,8 +1,4 @@
-<p align='center'>
-  👨🏼‍💻
-</p>
-
-## Hey
+## Welcome
 ![til](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/media/CxrlosKenobi-header.gif)
 
 <p align='center'>
@@ -11,6 +7,11 @@
   <a href="https://twitter.com/cxrloskenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/twitter.png></a>
   <a href="https://www.linkedin.com/in/carloskenobi/"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/linkedin.png></a>
 </p>
+
+<p align='center'>
+  👨🏼‍💻
+</p>
+
 Orderly and focused student dedicated to innovative, dynamic and organized work. Experience in Data Science and Ethical Hacking. Extensive interest in modern physics, quantum computing and computer science with space applications.
 
 - 🔭 I'm currently working on ... Python
@@ -32,4 +33,4 @@ Orderly and focused student dedicated to innovative, dynamic and organized work.
 ## Badges
 [![Hacktober Fest 2020](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/hacktober-fest.png)](https://hacktoberfest.digitalocean.com/) | [![Codecademy Chapter Leader](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/codecademy.png)](https://community.codecademy.com/)
 ---|---
-[Hacktober Fest 2020](https://hacktoberfest.digitalocean.com/ = 144x144) |[Codecademy Chapter Leader](https://community.codecademy.com/ =144x144)
+Hacktober Fest 2020 |Codecademy Chapter Leader
