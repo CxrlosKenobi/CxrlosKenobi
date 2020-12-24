@@ -16,7 +16,7 @@ Orderly and focused student dedicated to innovative, dynamic and organized work.
 
 - 🔭 I'm currently working on ... Python
 - 🌱 I'm currently learning ... Swift and Computer Vision
-- 👯 I'looking for colaborate on ... Python
+- 👯 I'm looking for colaborate on ... Python
 - 🤔 I'm looking for help with ...
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact ... My last name isn't Kenobi, lol
