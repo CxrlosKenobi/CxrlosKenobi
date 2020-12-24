@@ -32,4 +32,4 @@ Orderly and focused student dedicated to innovative, dynamic and organized work.
 ## Badges
 [![Hacktober Fest 2020](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/hacktober-fest.png)](https://hacktoberfest.digitalocean.com/) | [![Codecademy Chapter Leader](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/codecademy.png)](https://community.codecademy.com/)
 ---|---
-[Hacktober Fest 2020](https://hacktoberfest.digitalocean.com/) |[Codecademy Chapter Leader](https://community.codecademy.com/)
+[Hacktober Fest 2020](https://hacktoberfest.digitalocean.com/ = 144x144) |[Codecademy Chapter Leader](https://community.codecademy.com/ =144x144)
