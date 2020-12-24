@@ -2,24 +2,25 @@
 ![til](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/media/CxrlosKenobi-header.gif)
 
 <p align='center'>
+  👨🏼‍💻
+</p>
+
+
+## s
+<td width="50%">
+<tr>
+&nbsp; <br> [![Spotify](https://cxrloskenobi.vercel.app/api/spotify)](https://open.spotify.com/user/ocpp3ci0zx29f9x2321yjlgrc)
+  </td>
+  <td width="50%">
+
+<br><p align="center">
   <a href="https://www.buymeacoffee.com/CxrlosKenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/buy-me-a-coffee.png></a>
   <a href="https://instagram.com/cvrloskenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/instagram.png></a>
   <a href="https://twitter.com/cxrloskenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/twitter.png></a>
   <a href="https://www.linkedin.com/in/carloskenobi/"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/linkedin.png></a>
 </p>
+  </td>
 
-<p align='center'>
-  👨🏼‍💻
-</p>
-
-
-## Try
-[![Spotify](https://cxrloskenobi.vercel.app/api/spotify)](https://open.spotify.com/user/ocpp3ci0zx29f9x2321yjlgrc)
-
-
-
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
 
 Orderly and focused student dedicated to innovative, dynamic and organized work. Experience in Data Science and Ethical Hacking. Extensive interest in modern physics, quantum computing and computer science with space applications.
 
