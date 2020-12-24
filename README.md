@@ -15,8 +15,6 @@
 Orderly and focused student dedicated to innovative, dynamic and organized work. Experience in Data Science and Ethical Hacking. Extensive interest in modern physics, quantum computing and computer science with space applications.
 
 ## Spotify
-
-[<img src="https://now-playing-spotify-six.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/ocpp3ci0zx29f9x2321yjlgrc)
 [![Spotify](https://cxrloskenobi.vercel.app/api/spotify)](https://open.spotify.com/user/ocpp3ci0zx29f9x2321yjlgrc)
 
 - 🔭 I'm currently working on ... Python
