@@ -26,9 +26,10 @@ Orderly and focused student dedicated to innovative, dynamic and organized work.
 <code><img title="Python" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/python.png"></code>
 <code><img title="Swift" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/swift.png"></code>
 <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/postgre-sql.png"></code>
+<code><img title="C/C++" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/cpp.png"></code>
 <code><img title="GNU/Linux" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/gnu-linux.png"></code>
 <code><img title="Git" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/git.png"></code>
-<code><img title="C/C++" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/cpp.png"></code>
+<code><img title="Terminals" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/terminal.png"></code>
 
 ## Badges
 [![Hacktober Fest 2020](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/hacktober-fest.png)](https://hacktoberfest.digitalocean.com/) | [![Codecademy Chapter Leader](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/codecademy.png)](https://community.codecademy.com/)
