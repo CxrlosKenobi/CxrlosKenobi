@@ -1,7 +1,7 @@
 <p align='center'>
   👨🏼‍💻
 </p>
-# [![CxrlosKenobi header](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/media/CxrlosKenobi-header.gif)](https://www.linkedin.com/in/carloskenobi/)
+[![CxrlosKenobi header](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/media/CxrlosKenobi-header.gif)](https://www.linkedin.com/in/carloskenobi/)
 
 <p align='center'>
   <a href="https://www.buymeacoffee.com/CxrlosKenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/buy-me-a-coffee.png></a>
