@@ -1,7 +1,7 @@
 <p align='center'>
   👨🏼‍💻
 </p>
-[![CxrlosKenobi header](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/media/CxrlosKenobi-header.gif)]()
+[![CxrlosKenobi header](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/media/CxrlosKenobi-header.gif)](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/linkedin.png)
 
 <p align='center'>
   <a href="https://www.buymeacoffee.com/CxrlosKenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/buy-me-a-coffee.png></a>
@@ -20,12 +20,12 @@ Orderly and focused student dedicated to innovative, dynamic and organized work.
 
 
 ## Tools & Languages
-<code><img title="Python" height="20" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/python.png"></code>
-<code><img title="Swift" height="20" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/swift.png"></code>
-<code><img title="PostgreSQL" height="20" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/postgre-sql.png"></code>
-<code><img title="GNU/Linux" height="20" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/gnu-linux.png"></code>
-<code><img title="Git" height="20" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/git.png"></code>
-<code><img title="C/C++" height="20" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/cpp.png"></code>
+<code><img title="Python" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/python.png"></code>
+<code><img title="Swift" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/swift.png"></code>
+<code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/postgre-sql.png"></code>
+<code><img title="GNU/Linux" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/gnu-linux.png"></code>
+<code><img title="Git" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/git.png"></code>
+<code><img title="C/C++" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/cpp.png"></code>
 
 ## Badges
 [![Hacktober Fest 2020](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/hacktober-fest.png)](https://hacktoberfest.digitalocean.com/) | [![Codecademy Chapter Leader](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/codecademy.png)](https://community.codecademy.com/)
