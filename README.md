@@ -1,6 +1,5 @@
 ## Welcome
 ![til](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/media/CxrlosKenobi-header.gif)
-
 <br><p align="center">
   <a href="https://www.buymeacoffee.com/CxrlosKenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/buy-me-a-coffee.png></a>
   <a href="https://instagram.com/cvrloskenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/instagram.png></a>
@@ -27,7 +26,6 @@ Orderly and focused student dedicated to innovative, dynamic and organized work.
 - 🔭 I'm currently working on ... Python
 - 🌱 I'm currently learning ... Swift and Computer Vision
 - 👯 I'm looking for colaborate on ... Python
-- 🤔 I'm looking for help with ...
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact ... My last name isn't Kenobi, lol
 
