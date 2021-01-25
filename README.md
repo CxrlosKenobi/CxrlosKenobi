@@ -24,7 +24,7 @@ Orderly and focused student dedicated to innovative, dynamic and organized work.
   </table>
 
 - 🔭 I'm currently working on ... Python
-- 🌱 I'm currently learning ... Swift and Computer Vision
+- 🌱 I'm currently learning ... Swift and Quantum Computing
 - 👯 I'm looking for colaborate on ... Python
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact ... My last name isn't Kenobi, lol
@@ -43,3 +43,7 @@ Orderly and focused student dedicated to innovative, dynamic and organized work.
 [![Hacktober Fest 2020](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/hacktober-fest.png)](https://hacktoberfest.digitalocean.com/) | [![Codecademy Chapter Leader](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/codecademy.png)](https://community.codecademy.com/)
 ---|---
 Hacktober Fest 2020 |Codecademy Chapter Leader
+
+https://github.com/Paxa/postbird/blob/master/README.md
+https://www.pikpng.com/pngl/m/13-133205_circle-icons-parachute-parachute-icon-clipart.png
+
