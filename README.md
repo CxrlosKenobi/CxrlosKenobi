@@ -8,7 +8,7 @@
 </p>
 
 <p align='center'>
-  My profile looks better in Dark Mode 👀
+  My profile looks better in Dark Mode 👀 
 </p>
 
 <table width="100%">
