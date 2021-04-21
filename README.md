@@ -1,45 +1,11 @@
-## Welcome
-![til](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/media/CxrlosKenobi-header.gif)
-<br><p align="center">
+<div align="center">
+  <h2> Studying, Researching & Working </h2>
+  <p>Working at: <b><a href="https://aeroespacial.centrosimes.cl/simesat-cansat-v1/">🛰️ SIMESAT</a></b> & <b><a href="https://github.com/CxrlosKenobi/UdeCursos.py">@UdeCursos</a></b></p>
+  <br><p align="center">
   <a href="https://www.buymeacoffee.com/CxrlosKenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/buy-me-a-coffee.png></a>
   <a href="https://instagram.com/cvrloskenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/instagram.png></a>
-  <a href="https://twitter.com/cxrloskenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/twitter.png></a>
   <a href="https://www.linkedin.com/in/carloskenobi/"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/linkedin.png></a>
-</p>
-
-<p align='center'>
-  My profile looks better in Dark Mode 👀 
-</p>
-
-<table width="100%">
-  <tr>
-  <td width="50%">
-
-&nbsp; <br> [![Spotify](https://cxrloskenobi.vercel.app/api/spotify)](https://open.spotify.com/user/ocpp3ci0zx29f9x2321yjlgrc)
-
-  </td>
-  <td width="50%">
-Orderly and focused student dedicated to innovative, dynamic and organized work. Experience in Data Science and Ethical Hacking. Extensive interest in modern physics, quantum computing and computer science with space applications.
-  </td>
-  </table>
-
-- 🔭 I'm currently working on ... Python
-- 🌱 I'm currently learning ... Swift and Quantum Computing
-- 👯 I'm looking for colaborate on ... Python
-- 💬 Ask me about ... Anything
-- ⚡ Fun fact ... My last name isn't Kenobi, lol
-
-
-## Tools & Languages
-<code><img title="Python" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/python.png"></code>
-<code><img title="Swift" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/swift.png"></code>
-<code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/postgre-sql.png"></code>
-<code><img title="C/C++" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/cpp.png"></code>
-<code><img title="GNU/Linux" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/gnu-linux.png"></code>
-<code><img title="Git" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/git.png"></code>
-<code><img title="Command Line Interface" height="25" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/terminal.png"></code>
-
-## Badges
-[![Hacktober Fest 2020](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/hacktober-fest.png)](https://hacktoberfest.digitalocean.com/) | [![Codecademy Chapter Leader](https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/codecademy.png)](https://community.codecademy.com/)
----|---
-Hacktober Fest 2020 |Codecademy Chapter Leader
+  </p>
+  <img src="https://metrics.lecoq.io/CxrlosKenobi?template=classic&base.repositories=0&languages=1&pagespeed=1&activity=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&pagespeed.url=cxrlosk.me&pagespeed.detailed=false&pagespeed.screenshot=false&config.timezone=America%2FSantiago"></img>
+  <br> [![Spotify](https://cxrloskenobi.vercel.app/api/spotify)](https://open.spotify.com/user/ocpp3ci0zx29f9x2321yjlgrc)
+  </div>
