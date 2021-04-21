@@ -1,7 +1,7 @@
 <div align="center">
   <h2> Studying, Researching & Working </h2>
   <p>Working at: <b><a href="https://aeroespacial.centrosimes.cl/simesat-cansat-v1/">🛰️ SIMESAT</a></b> & <b><a href="https://github.com/CxrlosKenobi/UdeCursos.py">@UdeCursos</a></b></p>
-  <br><p align="center">
+  <p align="center">
   <a href="https://www.buymeacoffee.com/CxrlosKenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/buy-me-a-coffee.png></a>
   <a href="https://instagram.com/cvrloskenobi"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/instagram.png></a>
   <a href="https://www.linkedin.com/in/carloskenobi/"><img height="30" src=https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/linkedin.png></a>
