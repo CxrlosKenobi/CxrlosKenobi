@@ -1,6 +1,6 @@
 <div align="center">
   <h2> Learning & Researching </h2>
-  <p>Working on: <b><a href="https://github.com/CxrlosKenobi/udecursos">@UdeCursos</a></b> & <b><a href="https://octaaerospace.com/"><img height="14" width="14" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/satellite_icon.png"/> OctaSat</a></b></p>
+  <p>Working at: <b><a href="https://uds.udec.cl/">@Unidad de Data Science</a></b> & <b><a href="https://octaaerospace.com/"><img height="14" width="14" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/satellite_icon.png"/> OctaSat</a></b></p>
   <img src="github-metrics.svg" alt="Cool metrics"/>
 <h3> <img height="14" width="14" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/spotify-icon.png"/>  Recently listening to </h3>
 <tr>
