@@ -5,6 +5,8 @@
 <h3> <img height="14" width="14" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/spotify-icon.png"/>  Recently listening to </h3>
 <tr>
   
-&nbsp; [![Spotify](https://cxrloskenobi.vercel.app/api/spotify)](https://open.spotify.com/user/ocpp3ci0zx29f9x2321yjlgrc)
+&nbsp; [![Spotify](https://gh-spotifyapi.herokuapp.com/?background_color=0d1117&border_color=0d1117#gh-dark-mode-only)](https://open.spotify.com/user/cxrloskenobi)
+&nbsp; [![Spotify](https://gh-spotifyapi.herokuapp.com/?background_color=171516#gh-light-mode-only)](https://open.spotify.com/user/cxrloskenobi)
+
 <td>
 </div>
