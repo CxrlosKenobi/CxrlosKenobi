@@ -5,7 +5,7 @@
 <h3> <img height="14" width="14" src="https://raw.githubusercontent.com/CxrlosKenobi/CxrlosKenobi/main/assets/icons/spotify-icon.png"/>  Recently listening to </h3>
 <tr>
   
-&nbsp; [![Spotify](https://gh-spotifyapi.herokuapp.com/?background_color=171516#gh-light-mode-only)](https://open.spotify.com/user/cxrloskenobi)
+&nbsp; ![Spotify](https://gh-spotifyapi.herokuapp.com/?background_color=171516#gh-light-mode-only)
 
 <td>
 </div>
