@@ -35,6 +35,7 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           plugin_languages_indepth: yes
+          plugin_languages_indepth_custom: Retail-Pivot/app-backend, Retail-Pivot/app-frontend
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
