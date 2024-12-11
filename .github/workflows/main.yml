@@ -36,7 +36,7 @@ jobs:
           plugin_languages_indepth_custom: Retail-Pivot/app-backend, Retail-Pivot/app-frontend
           plugin_languages_analysis_timeout: 40
           plugin_languages_analysis_timeout_repositories: 15
-          commits_authoring: Carlos, CxrlosKenobi, cxrlos@kenobi.dev, kenobi@ieee.org
+          commits_authoring: Carlos, CxrlosKenobi, cxrlos@kenobi.dev, kenobi@ieee.org, yolitopinto@gmail.com
           plugin_people: yes
           plugin_people_limit: 24
           plugin_people_size: 28
