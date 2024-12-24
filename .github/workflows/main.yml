@@ -24,7 +24,7 @@ jobs:
           config_timezone: America/Santiago
           plugin_languages: yes
           plugin_languages_aliases: javascript:JS, typescript:TS
-          plugin_languages_colors: javascript:#f1e05a, typescript:#3570a0, python:#2b7489, c:#555555, java:#b07219, scss:#, tsx:#3570a0, swift:#ffac45
+          plugin_languages_colors: JS:#f1e05a, TS:#3570a0, Python:#2b7489, c:#555555, java:#b07219, SCSS:#, TSX:#3570a0, swift:#ffac45
           plugin_languages_ignored: html, Jupyter notebook, Yacc, Processing, C++, CSS
           plugin_languages_skipped: Breakout-game
           plugin_languages_categories: markup, programming
