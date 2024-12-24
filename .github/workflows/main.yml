@@ -23,7 +23,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Santiago
           plugin_languages: yes
-          plugin_languages_aliases: javascript:JS typescript:TS
+          plugin_languages_aliases: javascript:JS, typescript:TS
           plugin_languages_ignored: html, Jupyter notebook, Yacc, Processing, C++, CSS
           plugin_languages_skipped: Breakout-game
           plugin_languages_categories: markup, programming
